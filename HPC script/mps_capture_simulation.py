@@ -197,7 +197,7 @@ class Sistema:
         plt.savefig(f'../GIF - mps capture simulation/Imagem {n}.jpg',
                 transparent = False,
                 facecolor = 'white',
-                dpi=800
+                dpi=100
                )
         plt.close()
 
