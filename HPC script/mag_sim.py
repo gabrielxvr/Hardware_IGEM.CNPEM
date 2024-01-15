@@ -114,7 +114,7 @@ class System:
         plt.savefig(f'../GIF - magnet simulation/Image {n}.jpg',
                 transparent = False,
                 facecolor = 'white',
-                dpi=800
+                dpi=100
                )
         plt.close()
 
